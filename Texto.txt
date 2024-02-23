@@ -1,0 +1,42 @@
+A limpeza de dados consistiu em pegar as informações e formatalas em de forma que o tableeau pudesse ler, fiz a tradução com base nos textos dados.
+
+
+Grafico 1( HRBP x Capacidade de Impacto):
+
+O que está sendo mostrado:
+Este gráfico destaca as razões para a saída dos funcionários pelo HRBP em relação à capacidade de impacto. Ele revela que categorias discutidas com frequência, como "Progressão de Carreira" e "Tipo de Trabalho", têm um impacto moderado, enquanto "Treinamento", discutido com menos frequência, possui um impacto significativo. Além disso, "Conflito com outros" e "Carga horária" apresentam alta capacidade de impacto e correlação.
+
+Observações:
+
+Categorias como "Progressão de Carreira" e "Tipo de Trabalho" são discutidas com frequência e têm uma capacidade de impacto mediana.
+"Treinamento", apesar de ser discutido com menos frequência, tem a maior capacidade de impacto.
+"Conflito com outros" e "Carga horária" demonstram alta correlação e possuem uma capacidade de impacto considerável.
+
+Este gráfico destaca as razões para a saída dos funcionários pelo HRBP em relação à capacidade de impacto. Categorias discutidas com frequência, como "Progressão de Carreira" e "Tipo de Trabalho", têm um impacto moderado, enquanto "Treinamento", discutido menos frequentemente, possui um impacto significativo. "Conflito com outros" e "Carga horária" apresentam alta correlação e capacidade de impacto considerável.
+
+
+Grafico 2( Pesquisa de Saída x Capacidade de Impacto):
+
+O que está sendo mostrado:
+Este gráfico representa as razões para a saída dos funcionários em relação à sua capacidade de impacto.
+
+Observações:
+
+    "Progressão de Carreira" é a categoria mais frequente e tem uma capacidade de impacto acima da média, indicando sua importância para os funcionários ao considerar a saída.
+    Em segundo lugar em frequência está "Tipo de Trabalho", mas sua capacidade de impacto está ligeiramente abaixo da média.
+    Além dessas categorias, não há uma correlação muito forte entre as outras razões para saída, sugerindo que esses aspectos podem não ser tão influentes na decisão de saída dos funcionários.
+
+
+Grafico em barras:
+
+O gráfico de barras lado a lado é uma excelente escolha para visualização de dados, pois permite uma comparação direta entre as diferentes categorias. As barras são facilmente distinguíveis e oferecem uma representação clara das discrepâncias entre as métricas para cada categoria. Ao colocar as barras lado a lado, torna-se simples identificar quais categorias têm maior ou menor impacto.
+
+Observa-se uma divergência nos valores entre a Pesquisa de Saída e o HRBP, entretanto, há uma concordância significativa em relação ao fato de que a "Progressão de Carreira" é o principal motivo de saída identificado em ambos os conjuntos de dados.
+
+Grafico com marcador:
+
+Mostra de forma mais clara a diferença de valores entre a Razões para saída e o RH.
+
+Grafico de Arvore:
+
+Mostra a correlação de cada lista, sendo assim coseguimos ver qual seriam os reais valores...
