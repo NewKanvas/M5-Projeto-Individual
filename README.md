@@ -83,9 +83,9 @@ Um gráfico de árvore pode oferecer uma visualização detalhada da correlaçã
 
 Nesse tipo de gráfico temos a facilidade de interpretação, porém ele não comporta mais de duas variáveis como os outros graficos.
 
-## Visualização dos Dados
+## Qual visualização representa melhor os dados e por quê:
 
-O gráfico de Árvore melhor representa os dados, permitindo uma compreensão mais completa das relações entre as métricas e categorias de saída dos funcionários.
+O grafico de Árvore que melhor representa os dados, ja que podemos verificar quais são as situações que mais têm contribuído para a saída de funcionários da empresa com relação ao tamanho e podemos também verificar os níveis de capacidade de impactar com relação às cores. Conseguimos tabem ver quais surgem mais em cada tabela, seja pelo RH ou pela Pesquisa feita, sendo assim coseguimos ter uma noção melhor de qual seriam os valores reais.
 
 ## Conclusão
 
