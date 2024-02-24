@@ -33,7 +33,7 @@ Tanto na pesquisa com ex-funcionários quanto nos dados do RH, avanço na carrei
 ### Gráfico do RH
 
 <div style="display: flex;">
-    <img src="Doc/Images/HRBP.png" style="width: 70%; height: auto;">
+    <img src="Doc/Images/HRBP.png" style="width: 100%; height: auto;">
 </div>
 
 Este gráfico destaca as razões para a saída dos funcionários identificadas pelo RH em relação ao impacto. Observamos que categorias como "Progressão de Carreira" e "Tipo de Trabalho" têm um impacto moderado, enquanto "Treinamento" tem um impacto significativo. "Conflito com outros" e "Carga horária" apresentam alta correlação e capacidade de impacto considerável.
@@ -41,7 +41,7 @@ Este gráfico destaca as razões para a saída dos funcionários identificadas p
 ### Gráfico da Pesquisa de Saída
 
 <div style="display: flex;">
-    <img src="Doc/Images/PesquisadeSaída.png" style="width: 70%; height: auto;">
+    <img src="Doc/Images/PesquisadeSaída.png" style="width: 100%; height: auto;">
 </div>
 
 Este gráfico representa as razões para a saída dos funcionários de acordo com a pesquisa realizada em relação ao impacto. "Progressão de Carreira" é a categoria mais frequente e tem uma capacidade de impacto acima da média. Outras categorias não apresentam correlações significativas.
@@ -53,7 +53,7 @@ Ambos os conjuntos de dados destacam que questões relacionadas à progressão n
 ### Gráfico de Barras
 
 <div style="display: flex;">
-    <img src="Doc/Images/Barras.png" style="width: 70%; height: auto;">
+    <img src="Doc/Images/Barras.png" style="width: 100%; height: auto;">
 </div>
 
 **O que está sendo mostrado:**
