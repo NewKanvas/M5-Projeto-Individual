@@ -16,7 +16,7 @@ Este projeto visa utilizar o Tableau para criar dashboards que identifiquem as r
 
 - Faça o download do arquivo Tableau [aqui](Data/ProjetoIndividual5.twbx).
 - **Tableau:** Instale a versão mais recente do [Tableau](https://www.tableau.com/pt-br/trial/download-tableau).
-- ❗️❗️❗️ **Sugiro fortemente** que você acesse o dashboard pela [web](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1) ou o [PDF](Data/História%201.pdf) para uma melhor visualização dos gráficos ❗️❗️❗️
+> - ### ❗️❗️❗️ **Sugiro fortemente** que você acesse o dashboard pela [web](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1) ou o [PDF](Data/História%201.pdf) para uma melhor visualização dos gráficos ❗️❗️❗️
 
 ## StoryTelling
 
