@@ -30,7 +30,7 @@ Tanto na pesquisa com ex-funcionários quanto nos dados do RH, avanço na carrei
 
 ## Resultados
 
->Nota: Existe uma diferença de aproximadamente 111 avaliações entre os conjuntos de dados, o que pode ter causado uma imprecisão nos gráficos. Isso significa que algumas avaliações podem não estar completamente alinhadas entre as fontes de dados, o que pode afetar a precisão das análises. Por favor, leve isso em consideração ao interpretar os resultados apresentados nos gráficos.
+>Nota: Existe uma diferença de aproximadamente **61** avaliações entre os conjuntos de dados, o que pode ter causado uma imprecisão nos gráficos. Isso significa que algumas avaliações podem não estar completamente alinhadas entre as fontes de dados, o que pode afetar a precisão das análises. Por favor, leve isso em consideração ao interpretar os resultados apresentados nos gráficos.
 
 ### Gráfico do RH
 
