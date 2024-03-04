@@ -12,11 +12,21 @@
 Este projeto visa utilizar o Tableau para criar dashboards que identifiquem as razões para a saída dos funcionários da empresa, destacando áreas como **conflito com outros**, **falta de reconhecimento**, **carga horária**, **progressão de carreira**, **remuneração**, **tipo de trabalho**, **mudança de carreira**, **trajeto**, **realocação** e **doença**. O objetivo final é não apenas compreender esses motivos, mas também analisar seus impactos e propor soluções para mitigar o atrito de pessoal na organização.
 
 
+
 ## Como Executar
 
-- Faça o download do arquivo Tableau [aqui](Data/ProjetoIndividual5.twbx).
-- **Tableau:** Instale a versão mais recente do [Tableau](https://www.tableau.com/pt-br/trial/download-tableau).
-> - ### ❗️❗️❗️ **Sugiro fortemente** que você acesse o dashboard pela [web](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1) ou o [PDF](Data/História%201.pdf) para uma melhor visualização dos gráficos ❗️❗️❗️
+Siga estas etapas para executar o projeto:
+
+1. Faça o download do arquivo Tableau clicando [aqui](Data/ProjetoIndividual5.twbx).
+2. Certifique-se de ter o Tableau instalado em seu computador. Se você ainda não tem, você pode baixar a versão mais recente do [Tableau aqui](https://www.tableau.com/pt-br/trial/download-tableau).
+3. Após fazer o download do arquivo Tableau, abra-o no Tableau Desktop para visualizar os dashboards.
+4. Para uma experiência de visualização aprimorada, sugerimos acessar os dashboards pela web clicando [aqui](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1) ou baixar o PDF dos dashboards clicando [aqui](Data/História%201.pdf).
+
+### ***Sugiro fortemente a visualização pelo PDF:***
+
+[**Link da Web**](https://public.tableau.com/app/profile/cassio.ramos/viz/ProjetoIndividual5_17087108028200/Histria1)
+
+[**Aquivo do PDF**](Data/História%201.pdf)
 
 ## StoryTelling
 
